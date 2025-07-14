@@ -1,0 +1,25 @@
+
+ #red{
+  background-color: rgb(231, 74, 74); 
+  padding: 15px; 
+  margin: 15px;
+ }
+
+ #blue{
+    background-color: rgb(97, 74, 231); 
+  padding: 15px; 
+  margin: 15px;
+ }
+
+ #green{
+    background-color: rgb(74, 231, 95); 
+  padding: 15px; 
+  margin: 15px;
+ }
+
+ div{
+    text-align: center;
+ }
+ body {
+    background-color: rgb(236, 236, 194);
+ }
